@@ -7,3 +7,8 @@
 5.  Entrar a Meta XR
 6.  Aplicar los fixes y recomendaciones de la tab de Meta XR
 7.  Abrir ventana de building blocks
+
+## Para importar Sample Scenes
+1. En el package manager buscar: Meta XR Interaction ​SDK
+2. Ir a la seccion de Samples del meta xr interaction sdk
+3. Descargar e importar las Example Scenes
