@@ -12,3 +12,7 @@
 1. En el package manager buscar: Meta XR Interaction ​SDK
 2. Ir a la seccion de Samples del meta xr interaction sdk
 3. Descargar e importar las Example Scenes
+
+## Para correr en VR
+1. XR plugin manager debe estar electo Oculus
+2. En meta XR tener todos los issues y alerts arreglados y sin lios
