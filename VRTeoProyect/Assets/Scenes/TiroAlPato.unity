@@ -5441,7 +5441,7 @@ GameObject:
   m_Component:
   - component: {fileID: 332002878}
   - component: {fileID: 332002879}
-  m_Layer: 4
+  m_Layer: 6
   m_Name: HandGrab Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5544,7 +5544,7 @@ GameObject:
   - component: {fileID: 340465047}
   - component: {fileID: 340465048}
   - component: {fileID: 340465049}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: UseInteractable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15498,7 +15498,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 578362425}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Mirilla
   m_TagString: Untagged
   m_Icon: {fileID: 7866945982896999795, guid: 0000000000000000d000000000000000, type: 0}
@@ -25578,7 +25578,7 @@ GameObject:
   - component: {fileID: 1081646293}
   - component: {fileID: 1081646292}
   - component: {fileID: 1081646291}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29565,9 +29565,9 @@ GameObject:
   - component: {fileID: 1279724180}
   - component: {fileID: 1279724181}
   - component: {fileID: 1279724182}
-  - component: {fileID: 1279724183}
   - component: {fileID: 1279724184}
-  m_Layer: 0
+  - component: {fileID: 1279724183}
+  m_Layer: 6
   m_Name: Trabucote
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29706,7 +29706,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 5594821275123346073, guid: a2263b8ef0d6aae47a0a6eb2fd70d91f,
     type: 3}
   spawnPoint: {fileID: 578362425}
-  bulletSpeed: 20
+  bulletSpeed: 10
 --- !u!4 &1282199272 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7516989854395125638, guid: d2d6934a666a18d46b8b7a3864dc9f63,
@@ -30904,7 +30904,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1338169018}
   - component: {fileID: 1338169019}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: HandGrabInteractable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35294,7 +35294,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1580768615}
   - component: {fileID: 1580768616}
-  m_Layer: 4
+  m_Layer: 6
   m_Name: HandGrab Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35915,7 +35915,7 @@ GameObject:
   - component: {fileID: 1629218764}
   - component: {fileID: 1629218763}
   - component: {fileID: 1629218762}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Canon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
